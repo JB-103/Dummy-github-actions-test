@@ -38,7 +38,7 @@ public class CalculatorTests
     public void Multiply_TwoNumbers_ReturnsProduct()
     {
         // Arrange
-        int a = 4;
+        int a = 5;
         int b = 5;
 
         // Act
